@@ -1,0 +1,9 @@
+{
+  "name": "talentlens-monorepo",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build:frontend": "cd frontend && npm install && npm run build",
+    "start:backend": "cd backend && npm install && npm start"
+  }
+}
