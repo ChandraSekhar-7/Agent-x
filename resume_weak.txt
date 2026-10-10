@@ -1,0 +1,21 @@
+RAHUL VERMA
+Pune, India | rahul.verma@email.com
+
+SUMMARY
+Fresher looking for opportunities in software development.
+
+EXPERIENCE
+Intern, WebCraft Solutions (Jan 2024 - Jun 2024)
+- Built static websites using HTML, CSS and JavaScript
+- Fixed UI bugs in a React application
+
+SKILLS
+HTML, CSS, JavaScript, React, basic Python, MySQL, Git
+
+EDUCATION
+B.E. in Information Technology, Pune University (2024)
+
+PROJECTS
+- Personal portfolio website
+- To-do list app using React
+- Simple calculator in Python

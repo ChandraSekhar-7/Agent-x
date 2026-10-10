@@ -1,0 +1,26 @@
+Job Title: Machine Learning Engineer
+Company: NeuraTech Solutions, Hyderabad (Hybrid)
+
+About the role:
+We are looking for an ML Engineer to build and deploy production machine learning models for our recommendation and fraud-detection products.
+
+Responsibilities:
+- Design, train and evaluate ML/deep learning models
+- Build data pipelines and feature engineering workflows using SQL and Python
+- Deploy models as REST APIs using Docker and cloud services
+- Monitor model performance and retrain when drift is detected
+- Collaborate with product and backend teams
+
+Must-have skills:
+- 3+ years of experience in machine learning or data science
+- Strong Python (pandas, NumPy, scikit-learn)
+- Deep learning with PyTorch or TensorFlow
+- SQL
+- Docker and REST API deployment (Flask/FastAPI)
+- Git
+
+Nice-to-have skills:
+- AWS (SageMaker, S3, EC2)
+- MLflow or experiment tracking tools
+- NLP / LLM experience
+- CI/CD

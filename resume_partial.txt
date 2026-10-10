@@ -1,0 +1,26 @@
+PRIYA SHARMA
+Bengaluru, India | priya.sharma@email.com
+
+SUMMARY
+Data scientist with 3 years of experience in analytics and classical machine learning.
+
+EXPERIENCE
+Data Scientist, RetailInsights (Jul 2022 - Present)
+- Built customer churn prediction models using scikit-learn and XGBoost
+- Wrote SQL queries and Python scripts to prepare datasets from MySQL
+- Created dashboards in Power BI for business stakeholders
+- Deployed one model as a Flask API (basic, run on a company VM)
+
+Junior Analyst, Insightify (Jul 2021 - Jun 2022)
+- Performed data cleaning and EDA using pandas and Matplotlib
+- Automated weekly reports with Python
+
+SKILLS
+Python, pandas, NumPy, scikit-learn, XGBoost, SQL, Flask, Power BI, Git, Excel
+
+EDUCATION
+B.Sc. Statistics, Bangalore University (2021)
+
+PROJECTS
+- Customer churn prediction (Kaggle), 87% accuracy
+- Sales forecasting using ARIMA

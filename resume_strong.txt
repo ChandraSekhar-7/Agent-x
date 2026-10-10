@@ -1,0 +1,27 @@
+ARJUN REDDY
+Hyderabad, India | arjun.reddy@email.com | github.com/arjunreddy
+
+SUMMARY
+Machine Learning Engineer with 4.5 years of experience building and deploying production ML systems.
+
+EXPERIENCE
+Senior ML Engineer, FinServe Analytics (Jan 2023 - Present)
+- Built a fraud-detection model in PyTorch that reduced false positives by 28%
+- Deployed models as FastAPI services in Docker containers on AWS EC2 and SageMaker
+- Tracked experiments with MLflow and automated retraining with GitHub Actions CI/CD
+- Wrote complex SQL pipelines on PostgreSQL to build features for 10M+ records
+
+ML Engineer, DataWorks (Jun 2021 - Dec 2022)
+- Developed recommendation models using scikit-learn and TensorFlow
+- Built a text classification system using Hugging Face transformers
+- Created REST APIs with Flask for model serving
+
+SKILLS
+Python, pandas, NumPy, scikit-learn, PyTorch, TensorFlow, SQL, Docker, FastAPI, Flask, AWS, MLflow, Git, NLP
+
+EDUCATION
+B.Tech in Computer Science, JNTU Hyderabad (2021)
+
+PROJECTS
+- Real-time fraud scoring API handling 500 requests/second
+- Semantic search engine for support tickets using sentence transformers
