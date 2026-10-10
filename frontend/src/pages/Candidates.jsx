@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { motion, AnimatePresence } from 'framer-motion';
-import api from '../api';
+import api, { API_BASE_URL } from '../api';
 import clsx from 'clsx';
 import { 
   ChevronRight, CheckCircle2, AlertTriangle, AlertCircle, Download, Mail, 
@@ -442,7 +442,7 @@ export default function Candidates() {
 
   const downloadReport = (type) => {
     if (!sel) return;
-    window.open(`http://localhost:5000/api/candidates/${sel._id}/${type}`, '_blank');
+    window.open(`${API_BASE_URL}/candidates/${sel._id}/${type}`, '_blank');
   };
 
   const filteredCandidates = candidates.filter(c => 
