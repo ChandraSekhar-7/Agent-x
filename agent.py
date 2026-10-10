@@ -4,12 +4,15 @@ Everything else (weighted score, ATS checks, ranking) is computed locally.
 """
 import os, re
 from typing import List, Literal
-from dotenv import load_dotenv
+try:
+    from dotenv import load_dotenv
+    load_dotenv()
+except ImportError:
+    pass
+
 from pydantic import BaseModel, Field
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_google_genai import ChatGoogleGenerativeAI
-
-load_dotenv()
 FALLBACK_MODELS = []  # intentionally empty: models are discovered from YOUR api key
 
 
